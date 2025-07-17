@@ -13,6 +13,3 @@ This project highlights the eagle's powerful symbolism, life journey, and inspir
 ## 🔥 What This Page Represents
 
 This web page is more than just about a bird—it's about **resilience, transformation, and rising above challenges**, inspired by the legendary story of the eagle's rebirth. It’s a tribute to strength, focus, and freedom.
-
-## 📁 Project Structure
-
