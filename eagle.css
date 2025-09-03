@@ -43,12 +43,14 @@
 .image_container{
     border-radius: 50%;
     overflow: hidden;
-
-}
-
-.image_container,img{
     width: 300px;
     height: 320px;
+}
+
+.image_container img{
+    width: 300px;
+    height: 320px;
+    object-fit: cover;
 }
 
 .about_section {
@@ -94,4 +96,5 @@ footer{
 
 footer p{
     text-align: end;
+
 }
