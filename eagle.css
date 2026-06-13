@@ -48,7 +48,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid red;
 }
 
 .image_container img{
@@ -85,13 +84,7 @@
 
 .facts ul{
     margin-left: 30px;
-}
-
-.facts ul{
     margin-bottom: 15px;
-}
-
-.facts ul{
     line-height: 1.5;
 }
 
